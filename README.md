@@ -6,7 +6,7 @@
 - :ok_man: Studying Full Stack Software development at Microverse.
 - :man_student: Bachlor in Computer Science From Bhagwant University India.
 
-## :dart: Skills
+## :checkered_flag: Skills
 
 - :computer:
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -36,7 +36,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=1572B6)
   
 - :hammer_and_wrench:
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
   
