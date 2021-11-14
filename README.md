@@ -40,6 +40,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
   
+[![Ranjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodechaser&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/thecodechaser)
 
 
   
