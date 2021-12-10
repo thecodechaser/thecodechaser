@@ -2,8 +2,8 @@
 
 ## Hey there! I'm Ranjeet Singh 👋
 - :computer: Learning new technologies and developing Software Solutions.
-- :ok_man: Studying Full Stack Software development at Microverse.
-- :man_student: Bachlor in Computer Science From Bhagwant University India.
+- :ok_man: Studying full-stack software development at Microverse.
+- :man_student: Bachlor in computer science from Bhagwant University India.
 - :rocket: Love to watch sci-fi shows.
 - :email: You can reach me via mail: contact@thecodechaser.com
 
