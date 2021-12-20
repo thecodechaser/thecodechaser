@@ -4,7 +4,7 @@
 - :computer: Learning new technologies and developing Software Solutions.
 - :ok_man: Studying full-stack software development at Microverse.
 - :man_student: Bachlor in computer science from Bhagwant University India.
-- :rocket: Love to watch sci-fi shows.
+- :rocket: Love to watch sci-fi shows and movies.
 - :email: You can reach me via mail: contact@thecodechaser.com
 
 
