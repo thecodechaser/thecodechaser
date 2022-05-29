@@ -5,7 +5,7 @@
 - :ok_man: Studied full-stack software development at Microverse.
 - :man_student: Bachlor in computer science from Bhagwant University India.
 - :rocket: Love to watch sci-fi shows and movies.
-- :email: You can reach me via mail: <a href="mailto:contact@thecodechaser.com">contact@thecodechaser.com</a>
+- :email: You can reach me via mail: <a href="mailto:ranjeet@thecodechaser.com">ranjeet@thecodechaser.com</a>
 - :information_source: Website <a href="https://thecodechaser.com">thecodechaser.com</a>
 
 
