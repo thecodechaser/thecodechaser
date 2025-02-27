@@ -1,12 +1,12 @@
 <img width=500 height=250 src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 ## Hey there! I'm Ranjeet Singh 👋
-- :computer: Learning new technologies and developing Software Solutions.
+- :computer: Full-Stack Developer with 3+ years exerience.
+- :man_student: Bachelor in computer science.
 - :ok_man: Studied full-stack software development at Microverse.
-- :man_student: Bachlor in computer science from Bhagwant University India.
 - :rocket: Love to watch sci-fi shows and movies.
-- :email: You can reach me via mail: <a href="mailto:ranjeet@thecodechaser.com">ranjeet@thecodechaser.com</a>
-- :information_source: Website <a href="https://thecodechaser.com">thecodechaser.com</a>
+- :email: You can reach me via mail: <a href="mailto:ranjeetbuk96@gmail.com">ranjeetbuk96@gmail.com</a>
+- :information_source: Portfolio <a href="https://thecodechaser.com">thecodechaser.com</a>
 
 
 ### Connect With Me
