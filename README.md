@@ -5,7 +5,6 @@
 - :man_student: Bachelor in computer science.
 - :ok_man: Studied full-stack software development at Microverse.
 - :rocket: Love to watch sci-fi shows and movies.
-- :email: You can reach me via mail: <a href="mailto:ranjeet@kwanzoo.com">ranjeetbuk96@gmail.com</a>
 
 [![Ranjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodechaser&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/thecodechaser)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodechaser&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/thecodechaser)
